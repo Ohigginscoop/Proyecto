@@ -24,6 +24,12 @@ Aplicación desarrollada en Visual Basic .NET para la generación de estados de 
 2. Abrir el archivo `AppEstadoCuenta.sln` en Visual Studio 2013.
 3. Compilar la solución.
 
+## Visualización y prueba
+
+Para visualizar la interfaz del estado de cuenta, abrir `Form2.vb [Diseño]` en Visual Studio.
+
+Luego, ejecutar el proyecto mediante **Iniciar (F5)** para probar la aplicación y visualizar la generación del estado de cuenta.
+
 ## Estado del proyecto
 
 El proyecto se encuentra en desarrollo. La integración con la base de datos DataFlex mediante FlexODBC y la conexión con la copia local del sistema se encuentran en proceso de configuración y validación.
