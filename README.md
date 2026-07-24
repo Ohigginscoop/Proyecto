@@ -4,8 +4,6 @@
 
 Aplicación desarrollada en Visual Basic .NET para la generación de estados de cuenta de créditos de consumo de la Cooperativa de Ahorro y Crédito O'Higgins.
 
-El proyecto busca modernizar el proceso de generación de cartolas de estado de cuenta mediante una interfaz dinámica y generación de reportes.
-
 ## Tecnologías
 
 - Visual Basic .NET
